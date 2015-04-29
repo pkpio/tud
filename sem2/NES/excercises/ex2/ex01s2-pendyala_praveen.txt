@@ -1,0 +1,59 @@
+(a). For Anonimity and circumventing censorship among other use cases
+
+(b). A node in the Tor network which acts as a proxy for traffic from the previous node in a circuit. 3 types 
+      - Middle relay, Exit relay and Bridge relay
+
+(c). 1. An adversary model that includes Tor relays, ASes and IXPs
+     2. Metrics to estimate security from a user perspective
+     3. A novel Tor path simulator (TorPS) 
+
+(d). Traffic Correlation Attack. An adversory may watch and measure Tor traffic going into and out of the network 
+     and correlating the information on both sides.
+
+(e). The paper considers a passive end-to-end correlating adversory with a possibility for the adversory to add or
+     remove resources - Bandwidth, Tor relays, Destination servers. Adversory may control one or serveral ASes or IXPs.
+
+(f). A public directory which provides safe (non-leaky) information / statistics about the current deployment of the Tor 
+     network - Relay bandwidths, Uptimes, Bridges, Exit or Guard flag info etc.,
+
+(g). The process of picking random inputs from the domain of inputs and evaluating results on them, contrast to 
+     evaluating over the entire domain of inputs - which may be too large, and drawing conclusions on the entire 
+     domain from the small result space.
+
+(h). A collection of IP networks and routers under the control of one entity.
+
+(j). Tor uses Onion routing and bounces user's traffic over several nodes in the network before reaching the intended 
+     destination. The intrensic routing of traffic over several hops ensures than no single node or path can be used to
+     extract the complete information about which source is accessing which destination.
+
+(n). In contrast to the relay model, client behavior which results in low diversity of client destinations is most likely 
+     to result in a compromise. While there about 3000+ relays in the live Tor network, there are only a handful of ASes and 
+     IXPs and thus a network adversary has a higher chance of being picked by a stream compared to relay adversary.
+     
+(q). 1. Use of long-lived ports bear a large security cost for their performance needs.
+     2. BitTorrent is particularly unsafe as they often use ports which are most likely open only on adversary relays 
+     3. BitTorrent is unsafe also because they open a large number of streams, increasing their probability of stream compromise 
+        by Network adversaries.
+
+(r). The most relevant properties of user activities are their number, duration, and destinations. The intend of various user models 
+     used is to explore each of these parameters over a reasonable range: 
+     1. very good and very bad ports.
+     2. Most diverge destinations vs single destination etc.,
+     These traces from different user models exposes how some popular applications behave according to these parameters. This provides 
+     insight into how whole classes of activity are likely to act.
+
+(s). Because the same relay cannot be chosen twice on a circuit, he must run at least two relays - one guard, one exit; in order 
+     to perform a correlation attack. An adversary with resource-constraint must trade off between the likelihood of obtaining a 
+     guard position and the volume of exit traffic seen. A 5:1 guard-to-exit ratio maximized the probability of compromising
+     both sides. A higher bandwidth would mean a higher capacity and thus a higher chance that a user's stream may be routed over
+     adversary's relay. i.e., Higher bandwidth could mean more powerful adversary. 
+
+(t). They represent the probability over time - from first stream, to be routed over:
+     2(a) - First compromised Guard and Exit
+     2(b) - First compromised Guard
+     2(c) - First compromised Exit
+     The risk steadily increase with time. We see that the time it takes to choose a malicious guard 2(b), with a median of 
+     50–60 days, dominates the time to choose a malicious exit 2(c), with a median of fewer than 2.5 days. 2(b), 2(c) represent
+     individual probabilities while, 2(a) represents the probability of compromise.
+     
+
