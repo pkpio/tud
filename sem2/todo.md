@@ -15,6 +15,21 @@ SEDC
 P2P
 ========================
 
+13 Apr - 19 Apr
+-----
+- [ ] 00-Organization File
+- [ ] 01-Introduction File
+
+20 Apr - 26 Apr
+-----
+- [ ] 02-DHT-I
+- [ ] U01-Exercise KickOff
+- [ ] Ex.1
+
+27 Apr - 3 May
+-----
+- [ ] 03-DHT-II
+- [ ] Ex.2
 
 
 NES
