@@ -14,6 +14,7 @@ SEDC
 
 P2P
 ========================
+- Peer to Peer Systems
 
   13 Apr - 19 Apr
   -----
@@ -34,6 +35,7 @@ P2P
 
 NES
 ========================
+- Network Security
 
   Intro.
   -----
