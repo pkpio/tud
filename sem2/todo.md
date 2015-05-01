@@ -15,19 +15,19 @@ SEDC
 P2P
 ========================
 
-13 Apr - 19 Apr
------
+  13 Apr - 19 Apr
+  -----
 - [ ] 00-Organization File
 - [ ] 01-Introduction File
 
-20 Apr - 26 Apr
------
+  20 Apr - 26 Apr
+  -----
 - [ ] 02-DHT-I
 - [ ] U01-Exercise KickOff
 - [ ] Ex.1
 
-27 Apr - 3 May
------
+  27 Apr - 3 May
+  -----
 - [ ] 03-DHT-II
 - [ ] Ex.2
 
@@ -35,21 +35,21 @@ P2P
 NES
 ========================
 
-Intro.
------
+  Intro.
+  -----
 - [x] L0.0 - exam info etc.
 - [x] L0.1 - Course Org., Philo.
 - [x] L0.2 - Contents
 
-13 Apr - 19 Apr
------
+  13 Apr - 19 Apr
+  -----
 - [x] Additional reading
 - [x] Paper
 - [x] Ex1S1
 - [x] Ex1S2
 
-20 Apr - 26 Apr
------
+  20 Apr - 26 Apr
+  -----
 - [ ] L1.0 - Security primitives
 - [ ] L1.1 - Network primitives
 - [ ] Freak challenge ppt
@@ -59,8 +59,8 @@ Intro.
 - [ ] Net. Proto. Video lecture (additional)
 - [ ] L2.1 Reconnaisance
 
-27 Apr - 3 May
------
+  27 Apr - 3 May
+  -----
 - [ ] L3.0 Security model and selected attacks
 - [ ] L3.1 Crypto
 - [ ] Ex.1.2 solutions
