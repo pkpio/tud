@@ -25,12 +25,12 @@ P2P
   -----
 - [ ] 02-DHT-I
 - [ ] U01-Exercise KickOff
-- [ ] Ex.1
+- [ ] Ex.1 ---- May 26th
 
   27 Apr - 3 May
   -----
 - [ ] 03-DHT-II
-- [ ] Ex.2
+- [ ] Ex.2 ---- May 26th
 
 
 NES
@@ -66,7 +66,7 @@ NES
 - [ ] L3.0 Security model and selected attacks
 - [ ] L3.1 Crypto
 - [ ] Ex.1.2 solutions
-- [ ] Ex2 ---- Deadline May 6th
+- [ ] Ex2 ---- May 6th
 
 
 
