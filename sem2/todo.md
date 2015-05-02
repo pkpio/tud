@@ -10,6 +10,24 @@ TK3?
 
 SEDC
 ========================
+  Lectures
+  ----
+- [ ] 0-Organization
+- [ ] 0-Test your Java
+- [ ] 1-Introduction General
+- [ ] 2-PL Design Style
+- [ ] 3-CDP
+- [ ] 3.1-SRP
+- [ ] 3.2-ISP
+- [ ] 3.3-OCP
+- [ ] 3.4-DIP
+
+  Excercises
+  ----
+- [ ] Organization
+- [ ] Scala Introduction
+- [ ] Excercise 01 and Slides
+
 
 
 P2P
@@ -31,6 +49,7 @@ P2P
   -----
 - [ ] 03-DHT-II
 - [ ] <b>Ex.2 ---- May 26th</b>
+
 
 
 NES
@@ -70,6 +89,7 @@ NES
 
 
 
+
 CN1
 ========================
 - [ ] Administration, Organizational
@@ -80,6 +100,9 @@ CN1
 - [ ] Network Layer
 - [ ] Internet Protocols
 - [ ] <b>Bonus Task ----- June 10th</b>
+
+
+
 
 EP
 ========================
