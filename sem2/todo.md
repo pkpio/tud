@@ -1,6 +1,6 @@
 CPL?
 ========================
-Concepts of Programming Languages
+- Concepts of Programming Languages
 
   Lectures
   ----
@@ -17,7 +17,7 @@ Concepts of Programming Languages
 
 TK3?
 ========================
-Ubiquitous / Mobile Computing
+- Ubiquitous / Mobile Computing
 
   13 Apr - 19 Apr
   ----
@@ -39,7 +39,7 @@ Ubiquitous / Mobile Computing
 
 SEDC
 ========================
-Software Engineering : Design & Construction
+- Software Engineering : Design & Construction
 
   Lectures
   ----
