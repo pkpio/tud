@@ -25,12 +25,12 @@ P2P
   -----
 - [ ] 02-DHT-I
 - [ ] U01-Exercise KickOff
-- [ ] Ex.1 ---- May 26th
+- [ ] <b>Ex.1 ---- May 26th</b>
 
   27 Apr - 3 May
   -----
 - [ ] 03-DHT-II
-- [ ] Ex.2 ---- May 26th
+- [ ] <b>Ex.2 ---- May 26th</b>
 
 
 NES
@@ -66,14 +66,20 @@ NES
 - [ ] L3.0 Security model and selected attacks
 - [ ] L3.1 Crypto
 - [ ] Ex.1.2 solutions
-- [ ] Ex2 ---- May 6th
+- [ ] <b>Ex2 ---- May 6th</b>
 
 
 
 CN1
 ========================
-
-
+- [ ] Administration, Organizational
+- [ ] Introduction
+- [ ] Physical Layer
+- [ ] Local Area Network (LAN)
+- [ ] High-Speed LANs and MANs
+- [ ] Network Layer
+- [ ] Internet Protocols
+- [ ] <b>Bonus Task ----- June 10th</b>
 
 EP
 ========================
