@@ -1,15 +1,46 @@
 CPL?
 ========================
+Concepts of Programming Languages
+
+  Lectures
+  ----
+- [ ] V1
+- [ ] V2
+- [ ] V3
+
+  Excercises
+  ----
+- [ ] Ex. 01
+- [ ] Ex. 02
 
 
 
 TK3?
 ========================
+Ubiquitous / Mobile Computing
 
+  13 Apr - 19 Apr
+  ----
+- [ ] Intro.
+- [ ] Exam bonus rules
+- [ ] Group reg. rules
+
+  20 Apr - 26 Apr
+  ----
+- [ ] Sensing Tagging
+
+  27 Apr - 3 May
+  ----
+- [ ] Exercise Intro.
+- [ ] Exercise uMundo Intro
+- [ ] Exercise uMundo Advanced
+- [ ] <b>Exercise uMundo Assignments -- May 18th</b>
 
 
 SEDC
 ========================
+Software Engineering : Design & Construction
+
   Lectures
   ----
 - [ ] 0-Organization
