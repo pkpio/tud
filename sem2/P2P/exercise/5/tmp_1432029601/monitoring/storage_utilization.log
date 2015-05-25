@@ -1,0 +1,550 @@
+Timestamp: 1431925250.27
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3777116      1800 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925310.35
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3777484      1432 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925370.44
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778052       864 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925430.53
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778288       628 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925490.6
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778676       240 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925550.66
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925610.76
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778908         8 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431925670.86
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120Timestamp: 1431934922.86
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778908         8 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431934982.96
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935043.06
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935103.17
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935163.24
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935223.34
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935283.43
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431935343.54
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      512Timestamp: 1431960096.25
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778908         8 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960156.34
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960216.43
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960276.52
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960336.61
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960396.74
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960456.84
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431960516.95
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      512Timestamp: 1431970850.43
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778908         8 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431970910.47
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431970970.54
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431971030.64
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431971090.69
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431971150.8
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431971210.9
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431971271.01
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778912         4 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120 Timestamp: 1431975176.41
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778908         8 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975236.46
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975296.53
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975356.62
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975416.68
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975476.81
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975536.84
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1431975596.92
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 3778916         0 100% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      512Timestamp: 1432028614.41
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1484000   2294916  40% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028675.38
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1485132   2293784  40% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028735.46
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1517292   2261624  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028795.48
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1518040   2260876  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028855.55
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1518436   2260480  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028915.62
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1519972   2258944  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432028975.7
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1520652   2258264  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029035.77
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1521968   2256948  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029095.83
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1522608   2256308  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029155.93
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1522836   2256080  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029216.03
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1527092   2251824  41% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029276.1
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1574280   2204636  42% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029336.19
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1575560   2203356  42% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029396.25
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1576444   2202472  42% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029456.35
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1576796   2202120  42% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029516.44
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1578572   2200344  42% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
+Timestamp: 1432029576.51
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/mmcblk0p2   3998408 1597100   2181816  43% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev              427556       4    427552   1% /dev
+tmpfs              86688     188     86500   1% /run
+none                5120       0      5120   0% /run/lock
+none              433436       0    433436   0% /run/shm
+none              102400       0    102400   0% /run/user
+/dev/mmcblk0p1    130798    9596    121202   8% /media/boot
