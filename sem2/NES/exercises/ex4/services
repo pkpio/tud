@@ -1,0 +1,73 @@
+nmap -Pn -sV 130.83.194.149 -v -p 80,135,139,445,1337,1433,1434,8080,8443,22222,27017,28017,30000,54430,57269,64738
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-06-07 23:48 CEST
+NSE: Loaded 23 scripts for scanning.
+Initiating Parallel DNS resolution of 1 host. at 23:48
+Completed Parallel DNS resolution of 1 host. at 23:48, 0.14s elapsed
+Initiating Connect Scan at 23:48
+Scanning netsec-recon-a.net.hrz.tu-darmstadt.de (130.83.194.149) [16 ports]
+Discovered open port 8080/tcp on 130.83.194.149
+Discovered open port 80/tcp on 130.83.194.149
+Discovered open port 22222/tcp on 130.83.194.149
+Discovered open port 27017/tcp on 130.83.194.149
+Discovered open port 1337/tcp on 130.83.194.149
+Discovered open port 64738/tcp on 130.83.194.149
+Discovered open port 28017/tcp on 130.83.194.149
+Discovered open port 30000/tcp on 130.83.194.149
+Discovered open port 8443/tcp on 130.83.194.149
+Completed Connect Scan at 23:48, 1.20s elapsed (16 total ports)
+Initiating Service scan at 23:48
+Scanning 9 services on netsec-recon-a.net.hrz.tu-darmstadt.de (130.83.194.149)
+Completed Service scan at 23:48, 52.90s elapsed (9 services on 1 host)
+NSE: Script scanning 130.83.194.149.
+Initiating NSE at 23:48
+Completed NSE at 23:49, 8.23s elapsed
+Nmap scan report for netsec-recon-a.net.hrz.tu-darmstadt.de (130.83.194.149)
+Host is up (0.035s latency).
+PORT      STATE    SERVICE      VERSION
+80/tcp    open     http         Apache httpd 2.2.22 ((Debian))
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+445/tcp   filtered microsoft-ds
+1337/tcp  open     postgresql   PostgreSQL DB
+1433/tcp  filtered ms-sql-s
+1434/tcp  filtered ms-sql-m
+8080/tcp  open     ftp          ProFTPD 1.3.4a
+8443/tcp  open     http         Apache httpd 2.2.22
+22222/tcp open     ssh          OpenSSH 6.0p1 Debian 4+deb7u2 (protocol 2.0)
+27017/tcp open     unknown
+28017/tcp open     unknown
+30000/tcp open     http         MiniServ 1.740 (Webmin httpd)
+54430/tcp closed   unknown
+57269/tcp closed   unknown
+64738/tcp open     murmur       Murmur 1.2.4 (control port; users: 1; max. users: 100; bandwidth: 72000 b/s)
+3 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port1337-TCP:V=6.40%I=7%D=6/7%Time=5574BC1C%P=x86_64-pc-linux-gnu%r(Ker
+SF:beros,85,"E\0\0\0\x84SFATAL\0C0A000\0Munsupported\x20frontend\x20protoc
+SF:ol\x2027265\.28208:\x20server\x20supports\x201\.0\x20to\x203\.0\0Fpostm
+SF:aster\.c\0L1701\0RProcessStartupPacket\0\0")%r(SMBProgNeg,85,"E\0\0\0\x
+SF:84SFATAL\0C0A000\0Munsupported\x20frontend\x20protocol\x2065363\.19778:
+SF:\x20server\x20supports\x201\.0\x20to\x203\.0\0Fpostmaster\.c\0L1701\0RP
+SF:rocessStartupPacket\0\0");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port27017-TCP:V=6.40%I=7%D=6/7%Time=5574BC20%P=x86_64-pc-linux-gnu%r(mo
+SF:ngodb,4F,"O\0\0\0\xb6\"\0\0:0\0\0\x01\0\0\0\x08\0\0\0\0\0\0\0\0\0\0\0\0
+SF:\0\0\0\x01\0\0\0\+\0\0\0\x02errmsg\0\x0e\0\0\0need\x20to\x20login\0\x01
+SF:ok\0\0\0\0\0\0\0\0\0\0");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port28017-TCP:V=6.40%I=7%D=6/7%Time=5574BC1D%P=x86_64-pc-linux-gnu%r(Ge
+SF:nericLines,BC,"HTTP/1\.0\x20401\r\nWWW-Authenticate:\x20Digest\x20realm
+SF:=\"mongo\",\x20nonce=\"abc\",\x20algorithm=MD5,\x20qop=\"auth\"\x20\r\n
+SF:Content-Type:\x20text/plain;charset=utf-8\r\nConnection:\x20close\r\nCo
+SF:ntent-Length:\x2012\r\n\r\nnot\x20allowed\n")%r(GetRequest,BC,"HTTP/1\.
+SF:0\x20401\r\nWWW-Authenticate:\x20Digest\x20realm=\"mongo\",\x20nonce=\"
+SF:abc\",\x20algorithm=MD5,\x20qop=\"auth\"\x20\r\nContent-Type:\x20text/p
+SF:lain;charset=utf-8\r\nConnection:\x20close\r\nContent-Length:\x2012\r\n
+SF:\r\nnot\x20allowed\n");
+Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 62.64 seconds
+

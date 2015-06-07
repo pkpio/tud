@@ -1,0 +1,16 @@
+80/tcp    open     http         TOKEN-Netsec15-B1-Xc0538fd7f566e7cddbb9153b4db218e6
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+445/tcp   filtered microsoft-ds
+1337/tcp  open     postgresql   
+1433/tcp  filtered ms-sql-s
+1434/tcp  filtered ms-sql-m
+8080/tcp  open     ftp          TOKEN-Netsec15-A2-7b7b2fce18392d7c4898a39bcdf8313a  -
+8443/tcp  open     http         TOKEN-Netsec15-X1-AllYour$3rver$bel0ngt0u$ (1 more here)
+22222/tcp open     ssh          --no tokens--
+27017/tcp open     unknown
+28017/tcp open     unknown
+30000/tcp open     http         TOKEN-Netsec15-Y1-Winni3PuhI$Gr33tingU
+54430/tcp closed   unknown
+57269/tcp closed   unknown
+64738/tcp open     murmur       TOKEN-Netsec15-A1-1337Haxx0r
