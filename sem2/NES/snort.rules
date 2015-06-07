@@ -1,0 +1,19 @@
+
+# Content based filtering
+alert tcp $HTTP_SERVERS $HTTP_PORTS <> any any (\
+                msg:"NetSec Exam Page Access"; \
+                sid:100003; rev:1; \
+                file_data; pcre:"/Network Security Exam/i"; \ 
+                file_data; pcre:!"/Secret/i"; )
+
+# File type based filtering
+alert tcp $HTTP_SERVERS $HTTP_PORTS <> any any (\
+                msg:"NetSec Exam Download"; \
+                sid:100004; rev:1; \
+                pcre:"/netsec\/exam\d{4}.pdf/i"; )
+
+# URI filtering
+alert tcp $HTTP_SERVERS $HTTP_PORTS <> any any (\
+                msg:"NetSec Solution Access"; \
+                sid:100005; rev:1; \
+                pcre:"/netsec\/exam\d{4}_solution-v\d{3}.jpg/i"; )
