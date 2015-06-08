@@ -1,0 +1,8 @@
+http	   (80)   - TOKEN-Netsec15-B1-Xc0538fd7f566e7cddbb9153b4db218e6
+postgresql (1337) - TOKEN-Netsec15-E1-N3t$ec-RUL3Z
+ftp	   (8080) - TOKEN-Netsec15-A2-7b7b2fce18392d7c4898a39bcdf8313a
+http	   (8443) - TOKEN-Netsec15-X1-AllYour$3rver$bel0ngt0u$
+		  - ??? 2nd token missing ???
+mongodb	   (27017)- TOKEN-Netsec15-D1-3xpl0it$
+http	   (30000)- TOKEN-Netsec15-Y1-Winni3PuhI$Gr33tingU
+murmur	   (64738)- TOKEN-Netsec15-A1-1337Haxx0r
