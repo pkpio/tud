@@ -6,7 +6,8 @@
 1433/tcp  filtered ms-sql-s	--
 1434/tcp  filtered ms-sql-m	--
 8080/tcp  open     ftp          TOKEN-Netsec15-A2-7b7b2fce18392d7c4898a39bcdf8313a  -
-8443/tcp  open     http         TOKEN-Netsec15-X1-AllYour$3rver$bel0ngt0u$ (1 more here)
+8443/tcp  open     http         TOKEN-Netsec15-X1-AllYour$3rver$bel0ngt0u$
+				TOKEN-Netsec15-X2-2c6a53959a059eda4497b8e234d81bf1
 22222/tcp open     ssh          --no tokens--
 27017/tcp open     unknown
 28017/tcp open     unknown
