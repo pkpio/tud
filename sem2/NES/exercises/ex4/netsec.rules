@@ -1,10 +1,17 @@
 
 # Content based filtering
+alert tcp any any -> $HTTP_SERVERS $HTTP_PORTS (\
+                msg:"NetSec Exam Page Access Requested"; \
+                sid:100002; rev:1; \
+                pcre:!"/index.html/i"; \
+                flowbits:set, epage_access; \
+		flowbits: noalert; )
 alert tcp any any <> $HTTP_SERVERS $HTTP_PORTS (\
 		msg:"NetSec Exam Page Access"; \
 		sid:100003; rev:1; \
 		file_data; pcre:"/Network Security Exam \d{4}/i"; \
-		file_data; pcre:!"/Secret/i"; )
+		flowbits:isset, epage_access; \
+		classtype:NetSec Exam Page Access; )
 
 
 # File type based filtering
@@ -17,8 +24,9 @@ alert tcp any any -> $HTTP_SERVERS $HTTP_PORTS (\
 alert tcp any any <> $HTTP_SERVERS $HTTP_PORTS (\
                 msg:"NetSec Exam Download"; \
                 sid:100005; rev:1; \
-                content:"200"; http_stat_code; \
-		flowbits:isset, exam_download; )
+		file_data; pcre:"/pdf/i"; \
+		flowbits:isset, exam_download; \
+		classtype:NetSec Exam Download; )
 
 
 # URI filtering
@@ -32,5 +40,6 @@ alert tcp any any <> $HTTP_SERVERS $HTTP_PORTS (\
                 msg:"NetSec Solution Access"; \
                 sid:100007; rev:1; \
                 content:"200"; http_stat_code; \
-                flowbits:isset, solution_access; )
+                flowbits:isset, solution_access; \
+		classtype:NetSec Solution Access; )
 
