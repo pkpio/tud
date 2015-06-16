@@ -1,0 +1,20 @@
+--------------------------- MODULE HMSClock ---------------------------
+EXTENDS Integers, TLC
+VARIABLE hr, mn, s
+Hinit == hr \in (1 .. 12)
+Minit == mn \in (0 .. 59)
+Sinit == s \in (0 .. 59)
+init == Hinit /\ Minit /\ Sinit
+Hnext == /\ s' = IF s # 59 /\ PrintT(<<hr, mn, s>>) 
+                 THEN s+1 ELSE 0 
+         /\ mn' = IF s # 59 THEN mn ELSE
+                     IF mn # 59 /\ PrintT(<<hr, mn, s>>) 
+                     THEN mn+1 ELSE 0
+         /\ hr' = IF s # 59 THEN hr ELSE
+                     IF mn # 59 THEN hr ELSE
+                        IF hr # 12 /\ PrintT(<<hr, mn, s>>) 
+                        THEN hr+1 ELSE 1
+Time == init /\ [][Hnext]_<<hr, mn, s>>
+---------------------------------------------------------------------------
+THEOREM Time => [](Hinit /\ Minit /\ Sinit)
+=============================================================================
