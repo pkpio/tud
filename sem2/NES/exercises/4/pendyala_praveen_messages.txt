@@ -1,0 +1,11 @@
+
+Hash algorithm used : SHA1
+
+
+SERVICE		ID / FILE		  HASHED VALUE 					Plain Text
+-----------------------------------------------------------------------------------------------------
+murmur		--			  d3a4a17a005686c349aeae1c66d68df23bcc7914	praveendath92
+postgresql 	526			  d3a4a17a005686c349aeae1c66d68df23bcc7914	praveendath92
+ftp		praveen			  --						praveendath92
+mongodb		55750c5da57d72046445f0ff  d3a4a17a005686c349aeae1c66d68df23bcc7914	praveendath92
+
