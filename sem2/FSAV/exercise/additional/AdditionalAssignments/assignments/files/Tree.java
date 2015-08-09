@@ -6,6 +6,10 @@ public final class Tree {
     private /*@ spec_public @*/ Tree left;
     private /*@ spec_public @*/ Tree right;
 
+    /*@ public invariant 
+      @
+      @
+    */
 
     public int /*@ strictly_pure @*/ max () {
         int res = value;

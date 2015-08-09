@@ -10,14 +10,14 @@ public class Snippet {
       @*/
     public static int sum(int[] a)
     {
-    int s = 0, n=0;
-    while(n < a.length)
-    {
-        s += a[n];
-        a[n] = 0;
-        n++;
-    }
-    return s;
+        int s = 0, n=0;
+        while(n < a.length)
+        {
+            s += a[n];
+            a[n] = 0;
+            n++;
+        }
+        return s;
     }
     
 }
