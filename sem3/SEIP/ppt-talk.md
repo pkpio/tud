@@ -11,7 +11,7 @@ To do so, we have to list down the basic functionalities and look for which SaaS
 Business use : When we replace traditional methods we get cost effective .....
 Technology : following aspects play import role to bring it life. 
 
-Reborn in the cloud
+2. Reborn in the cloud
 -----
 Reborn in the Cloud block determines the degree of Cloud feasibility and if feasible, the viable Cloud patterns – IaaS, PaaS and/ or SaaS as well as public, private, or hybrid.
 
@@ -30,7 +30,7 @@ Paas : GAE
 Nov 2011: VDAB migration by capgemini using GAE
 
 
-Elastic business
+3. Elastic business
 ----------
 This blocks aims at rapidly scaling up or down in response to the demand
 
@@ -42,7 +42,7 @@ Tech
 Adpotion of elastic architecture with scalable components and a support for real time scaling of the infrastructure automatically based on demand
 
 
-API Economy
+4. API Economy
 -------------
 We are now moving into a new era of API first development. # of quora posts on "If ? has an API?" are going up?
 
@@ -59,7 +59,7 @@ Open API chart
 Just to see how APIs are raising to prominence
 
 
-No App Apps
+5. No App Apps
 ----------
 The idea behind No App Apps is to reduce the time consuming requirement and interaction process between domain and IT specialists as much as possible by providing easy-to-use software development tools.
 
