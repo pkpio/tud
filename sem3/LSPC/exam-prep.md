@@ -7,7 +7,7 @@ Lectures
 - [x] 03-Parallel Architectures
 - [x] 04-MPI Part 1
 - [x] 05-MPI Part 2
-- [ ] 06-MPI Part 3
+- [x] 06-MPI Part 3
 - [ ] MPI Reference
 
 Exercises
