@@ -8,7 +8,7 @@ Lectures
 - [x] 04-MPI Part 1
 - [x] 05-MPI Part 2
 - [x] 06-MPI Part 3
-- [ ] MPI Reference
+- [x] MPI Reference
 
 Exercises
 -------
