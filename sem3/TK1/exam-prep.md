@@ -1,6 +1,6 @@
 Lectures
 ------
-- [ ] TK1-2.1-DistProg-Mainstream-WS14_Part1_IPC
+- [x] TK1-2.1-DistProg-Mainstream-WS14_Part1_IPC
 - [ ] TK1-2.1-DistProg-Mainstream-WS14_Part2_RPC
 - [ ] TK1-2.1-DistProg-Mainstream-WS14_Part3_WebServices_v2
 - [ ] TK1-2.2-DistProg-Advanced-WS15
