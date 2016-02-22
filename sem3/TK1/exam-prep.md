@@ -18,7 +18,7 @@ Exercises
 -------
 - [x] Ex1
 - [x] Ex2
-- [ ] Ex3
+- [x] Ex3
 - [ ] Ex4
 - [ ] Ex5
 - [ ] Ex6
