@@ -23,7 +23,7 @@ Exercises
 - [x] Ex5
 - [x] Ex6
 - [x] Ex7
-- [ ] Ex8
+- [x] Ex8
 - [ ] Ex9
 - [ ] Ex10
 - [x] Additional Exercise
