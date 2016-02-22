@@ -25,6 +25,6 @@ Exercises
 - [x] Ex7
 - [x] Ex8
 - [x] Ex9
-- [ ] Ex10
+- [x] Ex10
 - [x] Additional Exercise
 
