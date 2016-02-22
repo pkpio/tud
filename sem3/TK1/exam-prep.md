@@ -20,7 +20,7 @@ Exercises
 - [x] Ex2
 - [x] Ex3
 - [x] Ex4
-- [ ] Ex5
+- [x] Ex5
 - [ ] Ex6
 - [ ] Ex7
 - [ ] Ex8
