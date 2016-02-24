@@ -81,10 +81,15 @@ int main(int argc, char* argv[])
 	int *disps;
 	sendcnts = malloc(sizeof(int) * comm_size);
 	disps = malloc(sizeof(int) * comm_size);
-	int i;
-	for(i=0; i<comm_size; i++){
-		sendcnts[i] = DIM_LEN / comm_size;
-		disps[i] = i * (DIM_LEN / comm_size);
+	int i,j,count;
+	count = 0;
+	for(i=0; i<comm_size; i=i){
+		count++; 
+		for(j=0; j<proc_cnt; j++){
+			sendcnts[i] = DIM_LEN / proc_cnt;
+			disps[i] = count * (DIM_LEN / proc_cnt);
+			i++;
+		}
 	}
 	MPI_Scatterv(mat_1, sendcnts, disps, row_type, mat_1, DIM_LEN, row_type, 0, MPI_COMM_WORLD);
 
