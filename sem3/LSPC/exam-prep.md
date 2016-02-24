@@ -17,5 +17,5 @@ Exercises
 - [x] Ex3
 - [ ] Ex4
 - [ ] Ex5
-- [ ] Ex6
+- [x] Ex6
 
