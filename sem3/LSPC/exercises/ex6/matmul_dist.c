@@ -91,6 +91,7 @@ int main(int argc, char* argv[])
 			i++;
 		}
 	}
+	print_mat(disps, 1, comm_size);
 	MPI_Scatterv(mat_1, sendcnts, disps, row_type, mat_1, DIM_LEN, row_type, 0, MPI_COMM_WORLD);
 
 	//printf("\nRank : %d\n", comm_rank);
@@ -112,6 +113,19 @@ int main(int argc, char* argv[])
 	MPI_Type_create_resized(col_type, 0, sizeof(int), &ncol_type);
         MPI_Type_get_extent(ncol_type, &lb, &extent);
         //printf("LB : %d Extent : %d\n", lb, extent);
+        
+        //Fix displacement for columns
+        int tmp[proc_cnt];	// Get all distinct displacements
+	for(i=0; i<proc_cnt; i=i++){
+		tmp[i] = disps[i*proc_cnt];
+	}
+	for(i=0; i<comm_size; i=i){
+		for(j=0; j<proc_cnt; j++){
+			disps[i] = tmp[j];
+			i++;
+		}
+	}
+	print_mat(disps, 1, comm_size);
 
 	MPI_Scatterv(mat_2, sendcnts, disps, ncol_type, mat_2, DIM_LEN, ncol_type, 0, MPI_COMM_WORLD);
 
