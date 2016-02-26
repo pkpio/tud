@@ -1,0 +1,15 @@
+Lectures
+------
+- [ ] 01_SEP_Introduction_Girschick.pdf
+- [ ] 02_SEP_TrainsAndScooters_Girschick-Kremer.pdf
+- [ ] 03_SEP_Estimation_and_Project_Management_Tophoven.pdf
+- [ ] 04_SEP_Requirements_Hinken.pdf
+- [ ] 05_SEP_Software_Specifications_Schuh.pdf
+- [ ] 06_SEP_Quality_management_Grieser.pdf
+- [ ] 08_SEP_Design_Girschick_1.pdf
+- [ ] 08_SEP_Design_Girschick_2.pdf
+- [ ] 09_SEP_Modern_Technology_Stacks_Waller.pdf
+- [ ] 10_SEP_OSAP_Hohwiller.pdf
+- [ ] 11_SEP_ModelDrivenDevelopment_Girschick.pdf
+- [ ] 13_SEP_Operations_Hecker.pdf
+- [ ] 14_SEP_EnterpriseArchitecture_Girschick.pdf
