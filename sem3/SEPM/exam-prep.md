@@ -1,7 +1,7 @@
 Lectures
 ------
 - [x] 01 - Introduction Lecture.pptx.pdf
-- [ ] 02 - Repetition and Teambuilding.pptx.pdf
+- [x] 02 - Repetition and Teambuilding.pptx.pdf
 - [ ] 03 - Scrum.pptx.v1.1.pdf
 - [ ] 04 - Requirements Management.pptx.pdf
 - [ ] 05 - Project Planning.pptx.pdf
