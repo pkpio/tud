@@ -5,7 +5,7 @@ Lectures
 - [x] 03 - Scrum.pptx.v1.1.pdf
 - [x] 04 - Requirements Management.pptx.pdf
 - [x] 05 - Project Planning.pptx.pdf
-- [ ] 06 - Project Monitoring and Control.pptx.pdf
+- [x] 06 - Project Monitoring and Control.pptx.pdf
 - [ ] 07 - Scaling Agile.pptx.pdf
 - [ ] 08 - Measurement and Analysis.pptx.pdf
 - [ ] 09 - Supplier Agreement Management.pptx.pdf
