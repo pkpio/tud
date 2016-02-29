@@ -4,7 +4,7 @@ Lectures
 - [x] 02 - Repetition and Teambuilding.pptx.pdf
 - [x] 03 - Scrum.pptx.v1.1.pdf
 - [x] 04 - Requirements Management.pptx.pdf
-- [ ] 05 - Project Planning.pptx.pdf
+- [x] 05 - Project Planning.pptx.pdf
 - [ ] 06 - Project Monitoring and Control.pptx.pdf
 - [ ] 07 - Scaling Agile.pptx.pdf
 - [ ] 08 - Measurement and Analysis.pptx.pdf
