@@ -2,7 +2,7 @@ Lectures
 ------
 - [x] 01_SEP_Introduction_Girschick.pdf
 - [x] 02_SEP_TrainsAndScooters_Girschick-Kremer.pdf
-- [ ] 03_SEP_Estimation_and_Project_Management_Tophoven.pdf
+- [x] 03_SEP_Estimation_and_Project_Management_Tophoven.pdf
 - [ ] 04_SEP_Requirements_Hinken.pdf
 - [ ] 05_SEP_Software_Specifications_Schuh.pdf
 - [ ] 06_SEP_Quality_management_Grieser.pdf
