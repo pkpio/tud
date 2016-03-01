@@ -9,4 +9,4 @@ Lectures
 - [ ] 07 - Scaling Agile.pptx.pdf
 - [x] 08 - Measurement and Analysis.pptx.pdf
 - [x] 09 - Supplier Agreement Management.pptx.pdf
-- [ ] 10 - Risk Management.pptx.pdf
+- [x] 10 - Risk Management.pptx.pdf
