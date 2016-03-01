@@ -1,12 +1,12 @@
 Lectures
 ------
 - [x] 01 - Introduction Lecture.pptx.pdf
-- [ ] 02 - Repetition and Teambuilding.pptx.pdf
-- [ ] 03 - Scrum.pptx.v1.1.pdf
-- [ ] 04 - Requirements Management.pptx.pdf
-- [ ] 05 - Project Planning.pptx.pdf
-- [ ] 06 - Project Monitoring and Control.pptx.pdf
+- [x] 02 - Repetition and Teambuilding.pptx.pdf
+- [x] 03 - Scrum.pptx.v1.1.pdf
+- [x] 04 - Requirements Management.pptx.pdf
+- [x] 05 - Project Planning.pptx.pdf
+- [x] 06 - Project Monitoring and Control.pptx.pdf
 - [ ] 07 - Scaling Agile.pptx.pdf
-- [ ] 08 - Measurement and Analysis.pptx.pdf
-- [ ] 09 - Supplier Agreement Management.pptx.pdf
-- [ ] 10 - Risk Management.pptx.pdf
+- [x] 08 - Measurement and Analysis.pptx.pdf
+- [x] 09 - Supplier Agreement Management.pptx.pdf
+- [x] 10 - Risk Management.pptx.pdf
