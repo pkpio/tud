@@ -8,5 +8,5 @@ Lectures
 - [x] 06 - Project Monitoring and Control.pptx.pdf
 - [ ] 07 - Scaling Agile.pptx.pdf
 - [x] 08 - Measurement and Analysis.pptx.pdf
-- [ ] 09 - Supplier Agreement Management.pptx.pdf
+- [x] 09 - Supplier Agreement Management.pptx.pdf
 - [ ] 10 - Risk Management.pptx.pdf
