@@ -6,7 +6,7 @@ Lectures
 - [x] 04 - Requirements Management.pptx.pdf
 - [x] 05 - Project Planning.pptx.pdf
 - [x] 06 - Project Monitoring and Control.pptx.pdf
-- [ ] 07 - Scaling Agile.pptx.pdf
+- [x] 07 - Scaling Agile.pptx.pdf
 - [x] 08 - Measurement and Analysis.pptx.pdf
 - [x] 09 - Supplier Agreement Management.pptx.pdf
 - [x] 10 - Risk Management.pptx.pdf
