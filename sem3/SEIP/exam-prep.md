@@ -9,7 +9,7 @@ Lectures
 - [ ] 08_SEP_Design_Girschick_1.pdf
 - [ ] 08_SEP_Design_Girschick_2.pdf
 - [x] 09_SEP_Modern_Technology_Stacks_Waller.pdf
-- [ ] 10_SEP_OSAP_Hohwiller.pdf
+- [x] 10_SEP_OSAP_Hohwiller.pdf
 - [x] 11_SEP_ModelDrivenDevelopment_Girschick.pdf
 - [ ] 13_SEP_Operations_Hecker.pdf
 - [ ] 14_SEP_EnterpriseArchitecture_Girschick.pdf
