@@ -1,11 +1,11 @@
 Lectures
 ------
-- [ ] 00-Organization.pdf
-- [ ] 01-SDN_Introduction.pdf
-- [ ] 02-Announcements.pdf
-- [ ] 02-SDN_Past_Current_Future.pdf
-- [ ] 03-SDN_Relatives_and_OpenFlow.pdf
-- [ ] 04-Lecture_Schedule.pdf
+- [x] 00-Organization.pdf
+- [x] 01-SDN_Introduction.pdf
+- [x] 02-Announcements.pdf
+- [x] 02-SDN_Past_Current_Future.pdf
+- [x] 03-SDN_Relatives_and_OpenFlow.pdf
+- [x] 04-Lecture_Schedule.pdf
 - [ ] 04-SDN_Network_Virtualization_and_Slicing.pdf
 - [ ] 05-SDN_Hardware_and_Use_Case.pdf
 - [ ] 06-NOS_and_Languages.pdf
