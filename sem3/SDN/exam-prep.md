@@ -6,7 +6,7 @@ Lectures
 - [x] 02-SDN_Past_Current_Future.pdf
 - [x] 03-SDN_Relatives_and_OpenFlow.pdf
 - [x] 04-Lecture_Schedule.pdf
-- [ ] 04-SDN_Network_Virtualization_and_Slicing.pdf
+- [x] 04-SDN_Network_Virtualization_and_Slicing.pdf
 - [ ] 05-SDN_Hardware_and_Use_Case.pdf
 - [ ] 06-NOS_and_Languages.pdf
 - [ ] 07-SDN_Security.pdf
