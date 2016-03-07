@@ -8,7 +8,7 @@ Lectures
 - [x] 04-Lecture_Schedule.pdf
 - [x] 04-SDN_Network_Virtualization_and_Slicing.pdf
 - [x] 05-SDN_Hardware_and_Use_Case.pdf
-- [ ] 06-NOS_and_Languages.pdf
+- [x] 06-NOS_and_Languages.pdf
 - [ ] 07-SDN_Security.pdf
 - [ ] 08-NEC-Kutscher.pdf
 - [ ] 09-Rimac_ALU.pdf
