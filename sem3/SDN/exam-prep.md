@@ -13,7 +13,7 @@ Lectures
 - [ ] 08-NEC-Kutscher.pdf
 - [x] 09-Rimac_ALU.pdf **not well**
 - [ ] 10-SDN_Mobile_Wireless.pdf
-- [ ] 11-Network_Functions_Virtualisation.pdf
+- [x] 11-Network_Functions_Virtualisation.pdf
 - [ ] 12-Huawei-Despotovic.pdf
 - [ ] 13-DT-Leymann.pdf
 - [ ] 14_DE-CIX_Nipper.pdf
