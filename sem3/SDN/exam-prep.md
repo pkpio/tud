@@ -20,12 +20,12 @@ Lectures
 
 Exercises
 -------
-- [ ] Ex1
-- [ ] Ex2
-- [ ] Ex3
+- [x] Ex1
+- [x] Ex2
+- [x] Ex3
 - [ ] Ex4
 - [ ] Ex5
-- [ ] Ex6
+- [x] Ex6
 - [ ] Ex7
 - [ ] Lab1
 - [ ] Lab2
