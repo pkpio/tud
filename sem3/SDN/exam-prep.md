@@ -10,7 +10,7 @@ Lectures
 - [x] 05-SDN_Hardware_and_Use_Case.pdf
 - [x] 06-NOS_and_Languages.pdf
 - [x] 07-SDN_Security.pdf **not well**
-- [ ] 08-NEC-Kutscher.pdf
+- [x] 08-NEC-Kutscher.pdf
 - [x] 09-Rimac_ALU.pdf **not well**
 - [x] 10-SDN_Mobile_Wireless.pdf
 - [x] 11-Network_Functions_Virtualisation.pdf
