@@ -24,7 +24,7 @@ Exercises
 - [x] Ex2
 - [x] Ex3
 - [x] Ex4
-- [ ] Ex5
+- [x] Ex5
 - [x] Ex6
 - [x] Ex7
 - [ ] Lab1
