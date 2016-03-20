@@ -1,7 +1,7 @@
 Lectures
 ------
 - [x] SCP-2015-01-slides.pdf
-- [ ] SCP-2015-02-slides.pdf
+- [x] SCP-2015-02-slides.pdf
 - [x] SCP-2015-03-slides.pdf
 - [x] SCP-2015-04-slides.pdf
 - [x] SCP-2015-05-slides.pdf
