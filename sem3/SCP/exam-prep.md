@@ -9,4 +9,4 @@ Lectures
 - [x] SCP-2015-07-slides.pdf
 - [x] SCP-2015-08-slides.pdf
 - [x] SCP-2015-09-slides.pdf
-- [ ] SCP-2015-10-slides.pdf
+- [x] SCP-2015-10-slides.pdf
