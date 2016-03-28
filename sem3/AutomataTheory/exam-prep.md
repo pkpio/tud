@@ -1,7 +1,7 @@
 Lectures
 ------
-- [ ] Lecture 1
-- [ ] Lecture 2
+- [x] Lecture 1
+- [x] Lecture 2
 - [ ] Lecture 3
 - [ ] Lecture 4
 - [ ] Lecture 5
