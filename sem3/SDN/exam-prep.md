@@ -15,8 +15,8 @@ Lectures
 - [x] 10-SDN_Mobile_Wireless.pdf
 - [x] 11-Network_Functions_Virtualisation.pdf
 - [x] 12-Huawei-Despotovic.pdf
-- [x] 13-DT-Leymann.pdf
-- [x] 14_DE-CIX_Nipper.pdf
+- [ ] 13-DT-Leymann.pdf
+- [ ] 14_DE-CIX_Nipper.pdf
 
 Exercises
 -------
