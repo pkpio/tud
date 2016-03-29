@@ -8,7 +8,7 @@ Lectures
 - [ ] Lecture 6
 - [x] Lecture 7
 - [x] Lecture 8
-- [ ] Lecture 9
+- [x] Lecture 9
 - [ ] Lecture 10
 
 Exercises
