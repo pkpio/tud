@@ -9,7 +9,7 @@ Lectures
 - [x] Lecture 7
 - [x] Lecture 8
 - [x] Lecture 9
-- [ ] Lecture 10
+- [x] Lecture 10
 
 Exercises
 -------
