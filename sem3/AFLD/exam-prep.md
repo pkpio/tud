@@ -13,7 +13,7 @@ Lectures
 
 Exercises
 -------
-- [ ] Ex1
+- [x] Ex1
 - [ ] Ex2
 - [ ] Ex3
 - [ ] Ex-extra
