@@ -17,4 +17,4 @@ Exercises
 - [x] Ex2
 - [x] Ex3
 - [x] Ex-extra
-- [ ] Mock exam
+- [x] Mock exam
