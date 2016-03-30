@@ -15,6 +15,6 @@ Exercises
 -------
 - [x] Ex1
 - [x] Ex2
-- [ ] Ex3
+- [x] Ex3
 - [ ] Ex-extra
 - [ ] Mock exam
