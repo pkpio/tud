@@ -8,10 +8,10 @@ Lectures
 - [x] Lecture 6
 - [x] Lecture 7
 - [x] Lecture 8
-- [ ] Lecture 9
-- [ ] Lecture 10
-- [ ] Lecture 11
-- [ ] Lecture 12
+- [x] Lecture 9
+- [x] Lecture 10
+- [x] Lecture 11
+- [x] Lecture 12
 - [ ] Lecture 13
 - [ ] Lecture 14
 - [ ] Lecture 15
