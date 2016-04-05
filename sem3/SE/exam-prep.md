@@ -12,10 +12,10 @@ Lectures
 - [x] Lecture 10
 - [x] Lecture 11
 - [x] Lecture 12
-- [ ] Lecture 13
-- [ ] Lecture 14
-- [ ] Lecture 15
-- [ ] Lecture 16
-- [ ] Lecture 17
-- [ ] Lecture 18
-- [ ] Lecture 19
+- [x] Lecture 13
+- [x] Lecture 14
+- [x] Lecture 15
+- [x] Lecture 16
+- [x] Lecture 17
+- [x] Lecture 18
+- [x] Lecture 19
