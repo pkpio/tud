@@ -7,7 +7,7 @@ Lectures
 - [x] Lecture 5
 - [x] Lecture 6
 - [x] Lecture 7
-- [ ] Lecture 8
+- [x] Lecture 8
 - [ ] Lecture 9
 - [ ] Lecture 10
 - [ ] Lecture 11
