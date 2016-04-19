@@ -1,0 +1,21 @@
+Lectures
+------
+- [x] Lecture 1
+- [x] Lecture 2
+- [x] Lecture 3
+- [x] Lecture 4
+- [x] Lecture 5
+- [x] Lecture 6
+- [x] Lecture 7
+- [x] Lecture 8
+- [x] Lecture 9
+- [x] Lecture 10
+- [x] Lecture 11
+- [x] Lecture 12
+- [x] Lecture 13
+- [x] Lecture 14
+- [x] Lecture 15
+- [x] Lecture 16
+- [x] Lecture 17
+- [x] Lecture 18
+- [x] Lecture 19
