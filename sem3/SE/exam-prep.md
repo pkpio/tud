@@ -19,3 +19,4 @@ Lectures
 - [x] Lecture 17
 - [x] Lecture 18
 - [x] Lecture 19
+- [x] Exam
